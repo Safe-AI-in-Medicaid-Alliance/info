@@ -39,14 +39,6 @@ All real submissions — including AI policies, use cases, and draft guidance �
 
 ---
 
-
-## 🔗 Helpful Links
-
-- **SAMA Interest Form:** [acentra.com/sama-interest-form](https://acentra.com/sama-interest-form)
-- **EasyRetro Board (Meeting Input):** [EasyRetro Input Board](https://easyretro.io/publicboard/aVmTQ1NWwjOZHPt0O6UECS8GqqQ2/01a66687-794b-4630-8ed9-a406cb251cfa)
-
----
-
 ## 🧠 What We’re Building Together
 
 By contributing, you’ll help shape:
