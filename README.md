@@ -11,6 +11,18 @@ We are focused on:
 - Aligning with national frameworks such as the NIST AI Risk Management Framework
 - Building toward shared deliverables at MESC 2025
 
+## Definition of SAFE AI
+
+SAMA has adopted the following definition of the term **SAFE AI**:
+
+> **Safe AI in Medicaid refers to the ethical, accountable, and transparent use of AI tools that improve program operations while maintaining fairness, human oversight, and compliance with privacy and legal standards.**
+
+### Adopted Materials
+
+**State Medicaid AI Use Cases, Risk Evaluation Framework, and Implementation Guide:** 
+https://docs.google.com/document/d/1_kjHoM9Q-kVX2sW34wgPOdRTarcXtG0a/edit
+
+
 ## 👥 Who Can Join?
 
 SAMA is open to:
